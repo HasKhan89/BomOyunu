@@ -1,0 +1,6 @@
+C:\Users\HasKhan\Desktop\BomOyunu\BomOyunu\bin\Debug\BomOyunu.exe.config
+C:\Users\HasKhan\Desktop\BomOyunu\BomOyunu\bin\Debug\BomOyunu.exe
+C:\Users\HasKhan\Desktop\BomOyunu\BomOyunu\bin\Debug\BomOyunu.pdb
+C:\Users\HasKhan\Desktop\BomOyunu\BomOyunu\obj\Debug\BomOyunu.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\BomOyunu\BomOyunu\obj\Debug\BomOyunu.exe
+C:\Users\HasKhan\Desktop\BomOyunu\BomOyunu\obj\Debug\BomOyunu.pdb
